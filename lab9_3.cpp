@@ -24,4 +24,4 @@ int main(){
     cout << "Mean = "<<mean<<endl;
     SD = sqrt(((1/count)*sum2)-pow(mean,2));
     cout << "Standard deviation = "<<SD;
-}
+}//
